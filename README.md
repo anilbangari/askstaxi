@@ -1,6 +1,7 @@
 Code of the winning entry to the [Kaggle ECML/PKDD taxi destination competition](https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i). Our approach is described in [our paper](http://arxiv.org/abs/1508.00021).
 
 ## Dependencies
+--------------------
 
 We used the following packages developped at the MILA lab:
 
